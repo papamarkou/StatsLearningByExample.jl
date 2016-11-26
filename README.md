@@ -1,1 +1,1 @@
-This is a short Julia tutorial accompanied by simple toy examples.
+This repository starts with a short introduction to Julia and it is followed by statistics examples in Julia.
